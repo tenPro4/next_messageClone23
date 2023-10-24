@@ -8,7 +8,7 @@
 
 ## Notes
 - Remember put /test(database name) behind the mongodb url to avoid error during prisma db push,example 
-mongodb+srv://username:password@cluster0.evouusn.mongodb.net`/test`
+mongodb+srv://username:password@cluster0.evouusn.mongodb.net/`test`(dbName)
 - Add images domains for auth in nextConfig
 - Trace online status pusher need to subscribe to specify name of subscriber like `presence-*`. Detail check `app/hooks/useActiveChannel`
 
