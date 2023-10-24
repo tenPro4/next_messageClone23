@@ -14,7 +14,7 @@ mongodb+srv://username:password@cluster0.evouusn.mongodb.net/`test`(dbName)
 
 
 ## Tech Includes:
-1. Next Cloudinary (Free image storage management services):https://cloudinary.com/
-2. zustand(store of state management) + pusher :Trace user online status real time
+1. [Next Cloudinary](https://cloudinary.com/) (Free image storage management services):
+2. zustand(store of state management) + [pusher](https://pusher.com/) :Trace user online status real time
 3. Modal (Contain double layer modal: ProfileDrawer -> ConfirmModal)
 4. Multi Auth options: google, github and local credential
