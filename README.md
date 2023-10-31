@@ -1,4 +1,4 @@
-## Install Prisma
+## Install Prisma(mongodb)
 ```
 - npm i -D prisma
 - npx prisma init
