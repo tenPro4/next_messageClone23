@@ -1,3 +1,8 @@
+## Setup
+```
+npx create-next-app@latest
+```
+
 ## Install Prisma(mongodb)
 ```
 - npm i -D prisma
